@@ -1,0 +1,5 @@
+W:\Visual Studio\Projects\Builds\Appie.exe
+W:\Visual Studio\Projects\Builds\Appie.dll
+W:\Visual Studio\Projects\Builds\Appie.deps.json
+W:\Visual Studio\Projects\Builds\Appie.runtimeconfig.json
+W:\Visual Studio\Projects\Builds\Appie.pdb

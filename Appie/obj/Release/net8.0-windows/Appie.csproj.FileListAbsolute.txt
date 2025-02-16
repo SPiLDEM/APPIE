@@ -1,0 +1,17 @@
+W:\Visual Studio\Projects\Appie\Appie\bin\Release\net8.0-windows\Appie.exe
+W:\Visual Studio\Projects\Appie\Appie\bin\Release\net8.0-windows\Appie.deps.json
+W:\Visual Studio\Projects\Appie\Appie\bin\Release\net8.0-windows\Appie.runtimeconfig.json
+W:\Visual Studio\Projects\Appie\Appie\bin\Release\net8.0-windows\Appie.dll
+W:\Visual Studio\Projects\Appie\Appie\bin\Release\net8.0-windows\Appie.pdb
+W:\Visual Studio\Projects\Appie\Appie\obj\Release\net8.0-windows\Appie.Form1.resources
+W:\Visual Studio\Projects\Appie\Appie\obj\Release\net8.0-windows\Appie.Properties.Resources.resources
+W:\Visual Studio\Projects\Appie\Appie\obj\Release\net8.0-windows\Appie.csproj.GenerateResource.cache
+W:\Visual Studio\Projects\Appie\Appie\obj\Release\net8.0-windows\Appie.GeneratedMSBuildEditorConfig.editorconfig
+W:\Visual Studio\Projects\Appie\Appie\obj\Release\net8.0-windows\Appie.AssemblyInfoInputs.cache
+W:\Visual Studio\Projects\Appie\Appie\obj\Release\net8.0-windows\Appie.AssemblyInfo.cs
+W:\Visual Studio\Projects\Appie\Appie\obj\Release\net8.0-windows\Appie.csproj.CoreCompileInputs.cache
+W:\Visual Studio\Projects\Appie\Appie\obj\Release\net8.0-windows\Appie.dll
+W:\Visual Studio\Projects\Appie\Appie\obj\Release\net8.0-windows\refint\Appie.dll
+W:\Visual Studio\Projects\Appie\Appie\obj\Release\net8.0-windows\Appie.pdb
+W:\Visual Studio\Projects\Appie\Appie\obj\Release\net8.0-windows\Appie.genruntimeconfig.cache
+W:\Visual Studio\Projects\Appie\Appie\obj\Release\net8.0-windows\ref\Appie.dll
